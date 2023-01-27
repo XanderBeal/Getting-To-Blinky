@@ -1,0 +1,24 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.8)*%
+%TF.CreationDate,2023-01-21T17:58:08-05:00*%
+%TF.ProjectId,Blinky 5.0,426c696e-6b79-4203-952e-302e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.8)) date 2023-01-21 17:58:08*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,5.500000X5.500000*%
+%ADD11R,4.000000X4.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,BT1*%
+X134200000Y-97000000D03*
+X159800000Y-97000000D03*
+D11*
+X147000000Y-97000000D03*
+%TD*%
+M02*
